@@ -1,2 +1,2 @@
 # Python_pandas_basic
-Este repositório mostra os metodos e atributos do modulo pandas da linguagem Python
+The principle of this repository is to show the basics of pandas methods and attibutes.
